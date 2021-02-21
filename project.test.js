@@ -102,4 +102,3 @@ describe('TASK 6 - cardAppender', () => {
   })
 })
 
-//const myname = "Joe";
